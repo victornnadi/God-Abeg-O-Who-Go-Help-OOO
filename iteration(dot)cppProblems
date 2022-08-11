@@ -1,0 +1,4 @@
+Compiler errors
+
+C:\Users\HI\AppData\Local\Temp\ccrY22BK.o	iteration.cpp:(.text+0x15): undefined reference to `get_int(char const*, ...)'
+C:\Users\HI\Documents\collect2.exe	[Error] ld returned 1 exit status
