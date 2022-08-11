@@ -2,3 +2,6 @@ Compiler errors
 
 C:\Users\HI\AppData\Local\Temp\ccrY22BK.o	iteration.cpp:(.text+0x15): undefined reference to `get_int(char const*, ...)'
 C:\Users\HI\Documents\collect2.exe	[Error] ld returned 1 exit status
+
+The program is in Lecture 3 of CS50, Malan is trying to write a code that draws a pyramid (with hash symbols) Here's the video link and time-part of video: https://youtu.be/EXnHX-6voug?t=6576 
+It works for him, but it doesn't work for me, what gives?
